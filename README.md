@@ -7,4 +7,4 @@ In this project you could find the code to validate:
 * RUC persona juridica
 * RUC empresa publica
 
-To try this code, you should go to *TryIt.java* class in *com.validation.main package*.
+To try this code, you should go to *TryIt.java* class in *com.validation.main* package.
